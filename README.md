@@ -1,4 +1,3 @@
-# Hello Friends, I am 😆Leftelfin! 👋🏼
+# Hello There! I am 😆Leftelfin! 👋🏼
 
-<img src="https://github-readme-stats.vercel.app/api?username=leftelfin&show_icons=true&theme=gruvbox" align="left" width="47%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leftelfin" align="left" width="47%">
+<a href="https://app.daily.dev/leftelfinx"><img src="https://api.daily.dev/devcards/v2/zSkConjkAzum3e2k4lLej.png?r=e20&type=default" width="356" alt="LeftelfinX's Dev Card"/></a>
