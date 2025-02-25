@@ -53,4 +53,4 @@ BASHED is one of my recent projects, currently at **Release 1.0**. It focuses on
 ## 📫 Connect With Me
 - GitHub: [Leftelfin](https://github.com/Leftelfin)
 - Email:  leftelfinx@proton.me
-- Reddit: [LeftelfinX](https://www.reddit.com/user/Leftelfin)
+- Reddit: [LeftelfinX](https://www.reddit.com/u/LeftelfinX/s/3s3JiudUo3)
