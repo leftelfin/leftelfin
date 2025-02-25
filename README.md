@@ -33,23 +33,6 @@ BASHED is one of my recent projects, currently at **Release 1.0**. It focuses on
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leftelfin&show_icons=true&theme=merko" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leftelfin&theme=merko" width="45%">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leftelfin&layout=compact&theme=merko" width="45%">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leftelfin&repo=BASHED&theme=merko" width="45%"> 
-</div>
-
-<div align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leftelfin&theme=merko" width="90%">
-</div>  
-
----
-
 ## 📫 Connect With Me
 - GitHub: [Leftelfin](https://github.com/Leftelfin)
 - Email:  leftelfinx@proton.me
